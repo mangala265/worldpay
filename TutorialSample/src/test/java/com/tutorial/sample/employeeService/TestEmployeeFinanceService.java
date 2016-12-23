@@ -17,7 +17,7 @@ public class TestEmployeeFinanceService {
 	EmployeeFinanceService service;
 	/**
 	 * @throws java.lang.Exception
-	 */
+	 *//*
 	@Before
 	public void setUp() throws Exception {
 	}
@@ -30,6 +30,6 @@ public class TestEmployeeFinanceService {
 		assertEquals(basicPay, 123);
 			
 		
-	}
+	}*/
 
 }
